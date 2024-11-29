@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.elab.easyuhandler",                              
+  "displayName": "WowRemote",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Tool to make a quick XR interaction from the Unity3D Handler interface.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_11_29_EasyUnityIHandler.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
