@@ -1,7 +1,7 @@
 
 {                                                                                
   "name": "be.elab.easyuhandler",                              
-  "displayName": "WowRemote",                        
+  "displayName": "Easy Unity IHandler XR",                        
   "version": "0.0.1",                         
   "unity": "2018.1",                             
   "unityRelease": "",                             
@@ -11,9 +11,9 @@
   "relatedPackages":{},     
   "samples" : [],     
   "author" : {
-"name":"",
+"name":"Eloi Stree",
 "mail":"",
-"url":""},     
+"url":"https://github.com/EloiStree"},     
   "repository":{
 "type":"Git",
 "url":"https://github.com/EloiStree/2024_11_29_EasyUnityIHandler.git",
